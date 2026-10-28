@@ -1,4 +1,4 @@
-# rectificadores-trifasicos-no-controlados
+# Rectificadores Trifásicos no Controlados
 # Caracterización Experimental y Comparativa de Rectificadores Trifásicos No Controlados
 
 Estudio experimental y análisis comparativo del desempeño de rectificadores trifásicos de media onda (3 pulsos) y puente completo de Graetz (6 pulsos) operando sobre cargas pasivas ($R, RC, RL, RLC$).
