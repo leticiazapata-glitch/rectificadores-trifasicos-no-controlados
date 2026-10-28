@@ -15,10 +15,10 @@ Evaluar el impacto de la topología de conversión y el filtrado pasivo sobre el
 * **Puente Completo / Graetz (6 pulsos):** Duplica la tensión media de salida a $59,2\text{ V}$ y reduce el rizado a $12,8\text{ V}$, operando a una frecuencia de pulsos doble ($300\text{ Hz}$).
 
 #### Oscilograma Media Onda (3 pulsos)
-![Media Onda - 3 pulsos](3pulsos.jpg)
+![Media Onda - 3 pulsos](3pulsos.jpeg)
 
 #### Oscilograma Puente Completo (6 pulsos)
-![Onda Completa - 6 pulsos](6pulsos.jpg)
+![Onda Completa - 6 pulsos](6pulsos.jpeg)
 
 ---
 
@@ -27,10 +27,10 @@ Evaluar el impacto de la topología de conversión y el filtrado pasivo sobre el
 * **Filtro Capacitivo ($C$):** Eleva la tensión continua media ($62,1\text{ V}$ en onda completa) y reduce drásticamente el rizado pico a pico a niveles de $1,2\text{ V}$, entregando una señal continua prácticamente plana.
 
 #### Contribución de las 3 Fases en Puente Completo
-![Contribución de 3 Fases](graf12.jpg)
+![Contribución de 3 Fases](graf12.jpeg)
 
 #### Tensión de Salida con Filtro Capacitivo ($RC$)
-![Onda Completa con Filtro RC](graf14.jpg)
+![Onda Completa con Filtro RC](graf14.jpeg)
 
 ---
 
